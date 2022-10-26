@@ -12,8 +12,7 @@ La clase Astillero dependende de la clase Astillero
 
 Caso 3
 Clases: Pedido, Mesero
-Analisis: La clase Pedido depende de la clase mesero
-
+Analisis: Existe una relacion de asociacion entre la clase pedido y la clase mesero. Ademas una de agregacion ya que los los pedidos pueden existir de forma independiente al mesero.
 Caso 4
 Clases: Equipo, Jugador
 Analisis: Un equipo tiene una relacion de composicion con la clase Jugador, pues esta compuesta de jugadores ademas un jugador dirige el equipo. Debe existir al menos un jugador
