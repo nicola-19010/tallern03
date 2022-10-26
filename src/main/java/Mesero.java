@@ -25,6 +25,9 @@ public class Mesero {
 	private void PedirQueClienteDigaSuPedido(){
 		int  platoPrincipal = ingresar();
 		int  bebestible = ingresar();
+		Pedido pedido = new Pedido();
+		pedido.setPlatoPrincipal();
+		pedido.setBebestible();
 	}
 
 	public static int ingresar() {
