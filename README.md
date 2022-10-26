@@ -1,0 +1,21 @@
+Nicolás Pacheco Toledo
+
+Caso 1
+Clases: Jugador, Gol, Partido
+Analisis: La clase partido se compone de varios jugadores (Clase Jugador)
+La clase Gol depende de la clase jugador
+
+Caso 2
+Clases: EmpresaNaviera, Buque, Astillero
+Analisis: La clase Empresa naviera se compone de 10 buques de la clase Buque
+La clase Astillero dependende de la clase Astillero
+
+Caso 3
+Clases: Pedido, Mesero
+Analisis: La clase Pedido depende de la clase mesero
+
+Caso 4
+Clases: 
+
+Caso 5
+Clases:  Un evento puede existir independientemente o formar parte de otros eventos, por lo tanto la clase evento tiene una relacion de composicion consigo.
