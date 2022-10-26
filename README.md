@@ -1,4 +1,4 @@
-Nicolás Pacheco Toledo
+Nicolás Pacheco Toledo | Caso elegido para codigo: Caso 3
 
 Caso 1
 Clases: Jugador, Gol, Partido
