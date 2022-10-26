@@ -15,7 +15,8 @@ Clases: Pedido, Mesero
 Analisis: La clase Pedido depende de la clase mesero
 
 Caso 4
-Clases: 
+Clases: Equipo, Jugador
+Analisis: Un equipo tiene una relacion de composicion con la clase Jugador, pues esta compuesta de jugadores ademas un jugador dirige el equipo. Debe existir al menos un jugador
 
 Caso 5
-Clases:  Un evento puede existir independientemente o formar parte de otros eventos, por lo tanto la clase evento tiene una relacion de composicion consigo.
+Clases:  Un evento puede existir independientemente o formar parte de otros eventos, por lo tanto la clase evento tiene una relacion de agregacion consigo.
